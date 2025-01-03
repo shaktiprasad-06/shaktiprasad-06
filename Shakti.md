@@ -74,18 +74,6 @@
 	        <li>D.O.B: 19/feb/2006</li>
 	        <li>Address: Nimakhandi Pentho,Digapahandi,Ganjam,<br>Odisha,761055</li>
 	        </ul>
-	        <p><u>ELEMENTS AND EQUATION:-</u></p>   {
-	         <h3 style="color:red">
-		      <p>CO <sub>2</sub></p>
-		      <p>O <SUP>-2</SUP></p>
-               <p>C+O <sub>2</sub>  -----> CO <sub>2</sub></p>
-                </h3>}<p>
-
-
-
-	        </font>
-	             </strong>
-
               <span>  <video width="640" height="352" controls>
               <source src="E:/CSPP Videos🎥/picnic.mp4"> video
               </video></span>
@@ -95,43 +83,6 @@
 
 
 
-
-         <form action="/submit-form" method="post"><center>
-
-         Enter Your College Name:<input type="text" placeholder="Enter Your College Name:">
-        <p>Enter Your Name:<input type="text" placeholder="Enter Your Name:"><p>
-        Regd. No:<input type="number" placeholder="Regd. No:"><p>
-        <label for="branch">Branch</label>
-		        <select name="Branch" id="branch">
-		        <option value="--Select--">--Select--</option>
-		        <option value="CSE">Computer Science & Engg.(CSE)</option>
-		        <option value="ME">Mechanical Engg.(ME)</option>
-		        <option value="EE">Electrical Engg.(EE)</option>
-		        <option value="CE">Civil Engg.(CE)</option>
-		        <option value="E.C.E">Electronics & Communicatin Engg.(E.C.E.)</option>
-        </select></p>
-        <label for="semester">Semester</label>
-        <select name="Semester" id="semester">
-        <option value="--Select--">--Select--</option>
-        <option value="1st Semester">1st Semester</option>
-        <option value="2nd Semester">2nd Semester</option>
-        <option value="3rd Semester">3rd Semester</option>
-        <option value="4th Semester">4thd Semester</option>
-        <option value="5th Semester">5th Semester</option>
-        <option value="6th Semester">6th Semester</option>
-        <option value="7th Semester">7th Semester</option>
-        <option value="8th Semester">8th Semester</option>
-        </select></p>
-        Enter Your Address:<br>
-        <textarea name="address" cols="40" rows="5" placeholder="Enter Your Address:"></textarea><br>
-        Choose The Section:
-        <input type="radio" value="Section a" name="section" id="sectionIda">SECTION A
-        <input type="radio" value="Section a" name="section" id="sectionIdb">SECTION B<p>
-        <input type="checkbox">I agree.
-        <p>Click on the "submit" button to confirm the data</p>
-            <a href="https://gate.ac.in/index.html"><input type="Submit" value="submit"></a>
-
-     </center></form>
 
            <footer>
 		              THANK YOU FOR VISITING MY WEBSITE<br>
